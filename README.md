@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Pollin Electronic is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.pollin.de/
+Pollin Electronic GmbH is a German online retailer specializing in consumer electronics, offering a broad selection of products ranging from audio equipment to computer components. The company focuses on providing discounted prices and frequent promotions, serving customers across Germany and neighboring markets through its e‑commerce platform.
+
+**Areas:** Company · Electronics · Retail · E‑commerce · Germany
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.pollin.de/)
+- [Support](https://www.pollin.de/kontakt-service)
+- [Terms of service](https://www.pollin.de/agb)
+- [Privacy policy](https://www.pollin.de/datenschutz-und-sicherheit)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/pollin/](https://apis.io/providers/pollin/).
